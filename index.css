@@ -1,0 +1,72 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 15px;
+}
+
+#flex-container {
+  display: flex !important;
+  flex-direction: column !important;
+  min-width: 600px;
+  margin: 40px;
+}
+
+#search-container {
+  background-color: aqua;
+  position: relative;
+  width: 100%;
+}
+
+#search-bar {
+  border: 1.5px solid;
+  border-radius: 6px;
+  text-align: left;
+  padding: 10px 20px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#row {
+  display: flex !important;
+  flex-direction: row !important;
+  width: 100%;
+  border: 1.5px solid;
+}
+
+#row:first-child {
+  border: 1.5px solid;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom: none;
+}
+
+#row:last-child {
+  border: 1.5px solid;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-top: none;
+}
+
+#week {
+  width: 70px;
+}
+
+#difficulty {
+  width: 100px;
+}
+
+#location {
+  width: 200px;
+}
+
+#distance {
+  width: 100px;
+}
+
+#trailhead {
+  width: 80px;
+}
+
+
+* {
+  box-sizing: border-box;
+}

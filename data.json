@@ -1,0 +1,29 @@
+[
+  {
+    "Week": "Week",
+    "Difficulty": "Difficulty",
+    "LocationName": "Location Name",
+    "LocationLink": "",
+    "Trailhead": "",
+    "Distance": "Distance",
+    "DriveTime": "Drive Time"
+  },
+  {
+    "Week": "Week 0",
+    "Difficulty": "Hard",
+    "LocationName": "Potato Chip Rock",
+    "LocationLink": "https://hikingguy.com/hiking-trails/hiking-san-diego/potato-chip-rock-hike-san-diego/",
+    "Distance": 7.5,
+    "Trailhead": "https://goo.gl/maps/3o2fFHwCNvaVqXkj8",
+    "DriveTime": 30
+  },
+ {
+    "Week": "Week 1",
+    "Difficulty": "Moderate",
+    "LocationName": "Corte Madera",
+    "LocationLink": "http://www.ihikesandiego.com/corte-madera-mountain/",
+    "Distance": 9.8,
+    "Trailhead": "https://goo.gl/maps/aZQSb5xBDraDhD846",
+    "DriveTime": 75
+  }
+]
