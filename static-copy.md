@@ -1,6 +1,7 @@
 ![logo](favicon.ico)
 
 ## Rules and Regulations
+TBD
 
 ## Sign Up Instructions
 For the given quarter, there will be a table of hikes for each week. The table includes information about the hike
@@ -15,16 +16,19 @@ so that you can decide whether it's a good fit for you.
   - Please us this to narrow down whether you can commit to a far drive as it oftens takes up the day
  
 ### Non-Drivers
-
+For those who would like to join hikes as passengers, all you need to do is sign up in the table below. We ask that you
+pay **$5** to your driver to offset gas costs at this time. We typically have an officer in every car to make sure
+all passengers feel safe and secure, especially with an unfamiliar driver. If you have any concerns or feel uncomfortable
+with your assigned driver or fellow passengers, let us know asap and we'll try our best to help.
 
 ### Drivers
 If you have a car and would be willing to drive fellow students to the trailhead, please let one of the officers know.
-Drivers are reimbursed for gas whenever possible. Often, the passengers will each Venmo $5 to the driver. (For far hikes,
+Drivers are reimbursed for gas whenever possible. Often, the passengers will each Venmo **$5** to the driver. (For far hikes,
 we may increase the asked amount to account for the difference in gas expenditure). We are always looking for drivers
 so please reach out.
 
 ## Hikes
-List of all the hikes the club has done. Note that all hikes from Spring 2020 to Spring 2021 were NOT hosted by the 
+List of all the hikes the club has done. Note that all hikes from **Spring 2020** to **Spring 2021** were NOT hosted by the 
 club but given as suggestions because of the current Covid-19 epidemic. For those using these hikes as suggestions, 
 please be mindful of Covid restrictions for that county, maintain your distance (6ft apart), wear a mask, and stay safe.
 Also be aware that hiking in California from May - October has recently been impacted by wildfires and bad air quality so
