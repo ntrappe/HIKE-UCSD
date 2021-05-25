@@ -48,3 +48,13 @@ always check the conditions before heading out. We hope that Fall 2021 will allo
 | Week 8     | `Moderate` | [Castle Rock](https://www.alltrails.com/trail/us/california/castle-rock-trail), [Butler Peak](https://www.alltrails.com/trail/us/california/butler-peak-trail), [Skyline](https://www.alltrails.com/trail/us/california/skyline-divide-trail)      | ---       | `3 hours`  | LINK |
 | Week 9     | `Easy`     | [Carmel Mountain](https://www.alltrails.com/trail/us/california/carmel-mountain-preserve-loop)            | `2.7 mi`  | `10 min`   | LINK |
 | Week 10    | `Hard`     | ["El Cap" El Cajon Mountain](http://hikingsdcounty.com/el-cajon-mountain-el-cap/)                         | `11.3 mi` | `30 min`   | LINK |
+
+### Spring Quarter 2020
+*No hikes due to Covid-19*
+
+### Fall Quarter 2019
+| When       | Date         | Meet Time    | Meet Location         | Location                          | Distance  | # Slots | Description |
+| ---------- | ------------ | ------------ | --------------------- | --------------------------------- | --------- | ---------- | ----------- |
+| Week 0     | `9/28/2019`  | `12pm`       | Muir Volleyball Court | N/A **(Club Social)**             | ---       | ---        | LINK        |
+| Week 1     | `10/5/2019`  | `9am`        | Revelle Parking Lot   | [Cuyamaca](https://hikingguy.com/hiking-trails/hiking-san-diego/hiking-stonewall-peak-trail/) | `5mi`   | `19` | LINK        |
+| Week 2     | `10/12/2019` | `9am`        | Revelle P103          | [Fletcher Point](https://www.alltrails.com/trail/us/california/fletcher-point) | `5.8mi`   | `13` | LINK        |
