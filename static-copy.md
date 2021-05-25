@@ -55,6 +55,8 @@ always check the conditions before heading out. We hope that Fall 2021 will allo
 ### Fall Quarter 2019
 | When       | Date         | Meet Time    | Meet Location         | Location                          | Distance  | # Slots | Description |
 | ---------- | ------------ | ------------ | --------------------- | --------------------------------- | --------- | ---------- | ----------- |
-| Week 0     | `9/28/2019`  | `12pm`       | Muir Volleyball Court | N/A **(Club Social)**             | ---       | ---        | LINK        |
-| Week 1     | `10/5/2019`  | `9am`        | Revelle Parking Lot   | [Cuyamaca](https://hikingguy.com/hiking-trails/hiking-san-diego/hiking-stonewall-peak-trail/) | `5mi`   | `19` | LINK        |
-| Week 2     | `10/12/2019` | `9am`        | Revelle P103          | [Fletcher Point](https://www.alltrails.com/trail/us/california/fletcher-point) | `5.8mi`   | `13` | LINK        |
+| Week 0     | `9/28/2019`  | `12 pm`      | Muir Volleyball Court | N/A **(Club Social)**             | ---       | ---        | LINK        |
+| Week 1     | `10/5/2019`  | `9 am`       | Revelle Parking Lot   | [Cuyamaca](https://hikingguy.com/hiking-trails/hiking-san-diego/hiking-stonewall-peak-trail/) | `5mi`   | `19` | LINK        |
+| Week 2     | `10/12/2019` | `8 am`       | Revelle P103          | [Fletcher Point](https://www.alltrails.com/trail/us/california/fletcher-point) | `5.8 mi` | `13` | LINK        |
+| Week 3     | `10/19/2019` | `8 am`       | Revelle P103          | [Palomar Mountain](https://modernhiker.com/hike/hiking-palomar-mountain-state-park/) | `9 mi` | `8` | LINK        |
+| Week 4     | `10/27/2019` | `8 am`       | Revelle P103          | Mission Trails | `3 mi` | `8` | LINK        |
