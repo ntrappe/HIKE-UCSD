@@ -1,38 +1,5 @@
 ![logo](favicon.ico)
 
-## Rules and Regulations
-TBD
-
-## Sign Up Instructions
-For the given quarter, there will be a table of hikes for each week. The table includes information about the hike
-so that you can decide whether it's a good fit for you. 
-- The first column lists the `Week` during which the hike will take place
-  - For example: `Week 2` typically means that the hike will occur on the weekend of `Week 2`
-- The `Difficulty` column indicates how punishing the hike is. This is usually based off of elevation gain.
-  - For example: a `hard` hike might have 2500ft of elevation gain while an `easy` hike has 50
-- The `Location` and `Trailhead` columns include links to either a Google Maps location or site about said trail
-- The `Distance` column is only an approximation of how many miles the trail is
-- The `Drive Time` column indicates how long it will take to drive to the trailhead from campus
-  - Please us this to narrow down whether you can commit to a far drive as it oftens takes up the day
- 
-### Non-Drivers
-For those who would like to join hikes as passengers, all you need to do is sign up in the table below. We ask that you
-pay **$5** to your driver to offset gas costs at this time. We typically have an officer in every car to make sure
-all passengers feel safe and secure, especially with an unfamiliar driver. If you have any concerns or feel uncomfortable
-with your assigned driver or fellow passengers, let us know asap and we'll try our best to help.
-
-### Drivers
-If you have a car and would be willing to drive fellow students to the trailhead, please let one of the officers know.
-Drivers are reimbursed for gas whenever possible. Often, the passengers will each Venmo **$5** to the driver. (For far hikes,
-we may increase the asked amount to account for the difference in gas expenditure). We are always looking for drivers
-so please reach out.
-
-## Hikes
-List of all the hikes the club has done. Note that all hikes from **Spring 2020** to **Spring 2021** were NOT hosted by the 
-club but given as suggestions because of the current Covid-19 epidemic. For those using these hikes as suggestions, 
-please be mindful of Covid restrictions for that county, maintain your distance (6ft apart), wear a mask, and stay safe.
-Also be aware that hiking in California from May - October has recently been impacted by wildfires and bad air quality so
-always check the conditions before heading out. We hope that Fall 2021 will allow the club to resume hosting hikes.
 
 ### Fall Quarter 2020
 | When       | Difficulty | Location                                                                                                  | Distance  | Drive Time | Description |
@@ -77,4 +44,45 @@ always check the conditions before heading out. We hope that Fall 2021 will allo
 | When       | Date         | Meet Time    | Meet Location         | Location                          | Distance  | # Slots | Description |
 | ---------- | ------------ | ------------ | --------------------- | --------------------------------- | --------- | ---------- | ----------- |
 | Spring Break | `3/31/2019` | `10 am`     | Mandeville Loop       | [Peñasquitos](https://www.alltrails.com/trail/us/california/los-penasquitos-canyon-trail) | `7 mi`   | `8`     | LINK        |
-| Week 2     | `4/13/2019`  | `8 am`       | Mandeville Loop       | [Anza Borrego](http://www.parks.ca.gov/?page_id=638) | `6 mi`   | `16`     | LINK        |
+| Week 2     | `4/13/2019`  | `8 am`       | Mandeville Loop       | [Anza Borrego](http://www.parks.ca.gov/?page_id=638) | `6 mi`   | `16`     | LINK  |
+| Week 3     | `4/20/2019`  | `9 am`       | Peterson Loop         | [Mother Miguel Mountain](https://www.alltrails.com/trail/us/california/mother-miguel-mountain-via-rock-house-trail) | `5 mi`   | `15`     | LINK  |
+| Week 4     | `4/28/2019`  | `9 am`       | Village Market        | [Saigon Trail](https://www.alltrails.com/explore/trail/us/california/ho-chi-minh-trail?ref=sidebar-static-map) | `3 mi`   | `10`     | LINK  |
+| Week 5     | `5/5/2019`  | `7:30 am`     | Peterson Loop         | [Mission Trails](https://mtrp.org/) | TBD   | `10`     | LINK  |
+| Week 6     | `5/11/2019`  | `3:30 pm`    | Galbraith Hall        | **Run by the Astronomy Club** |  |  |  |
+
+
+---
+
+## Rules and Regulations
+TBD
+
+## Sign Up Instructions
+For the given quarter, there will be a table of hikes for each week. The table includes information about the hike
+so that you can decide whether it's a good fit for you. 
+- The first column lists the `Week` during which the hike will take place
+  - For example: `Week 2` typically means that the hike will occur on the weekend of `Week 2`
+- The `Difficulty` column indicates how punishing the hike is. This is usually based off of elevation gain.
+  - For example: a `hard` hike might have 2500ft of elevation gain while an `easy` hike has 50
+- The `Location` and `Trailhead` columns include links to either a Google Maps location or site about said trail
+- The `Distance` column is only an approximation of how many miles the trail is
+- The `Drive Time` column indicates how long it will take to drive to the trailhead from campus
+  - Please us this to narrow down whether you can commit to a far drive as it oftens takes up the day
+ 
+### Non-Drivers
+For those who would like to join hikes as passengers, all you need to do is sign up in the table below. We ask that you
+pay **$5** to your driver to offset gas costs at this time. We typically have an officer in every car to make sure
+all passengers feel safe and secure, especially with an unfamiliar driver. If you have any concerns or feel uncomfortable
+with your assigned driver or fellow passengers, let us know asap and we'll try our best to help.
+
+### Drivers
+If you have a car and would be willing to drive fellow students to the trailhead, please let one of the officers know.
+Drivers are reimbursed for gas whenever possible. Often, the passengers will each Venmo **$5** to the driver. (For far hikes,
+we may increase the asked amount to account for the difference in gas expenditure). We are always looking for drivers
+so please reach out.
+
+## Hikes
+List of all the hikes the club has done. Note that all hikes from **Spring 2020** to **Spring 2021** were NOT hosted by the 
+club but given as suggestions because of the current Covid-19 epidemic. For those using these hikes as suggestions, 
+please be mindful of Covid restrictions for that county, maintain your distance (6ft apart), wear a mask, and stay safe.
+Also be aware that hiking in California from May - October has recently been impacted by wildfires and bad air quality so
+always check the conditions before heading out. We hope that Fall 2021 will allow the club to resume hosting hikes.
