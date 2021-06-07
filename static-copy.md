@@ -65,3 +65,16 @@ always check the conditions before heading out. We hope that Fall 2021 will allo
 | Week 7     | `11/17/2019` | `8 am`       | Revelle P103          | [Iron Mountain Peak](https://www.hikingproject.com/trail/7022637/iron-mountain-peak-trail-10) | `6 mi` | `5` | LINK        |
 | Week 8     | `11/23/2019` | `8 am`       | Revelle P103          | [McGinty](https://www.alltrails.com/trail/us/california/mcginty-mountain-trail) | `5 mi` | `8` | LINK        |
 | Week 9     | **Holiday Weekend** | | | | | |
+
+
+### Summer 2019
+| When       | Date         | Meet Time    | Meet Location         | Location                          | Distance  | # Slots | Description |
+| ---------- | ------------ | ------------ | --------------------- | --------------------------------- | --------- | ---------- | ----------- |
+| ---        | `8/4/2019`   | `7 am`       | Peterson Loop         | [Three Sisters Falls](https://www.alltrails.com/trail/us/california/three-sisters-waterfalls-trail) | `4 mi`   | `7`     | LINK        |
+
+
+### Spring 2019
+| When       | Date         | Meet Time    | Meet Location         | Location                          | Distance  | # Slots | Description |
+| ---------- | ------------ | ------------ | --------------------- | --------------------------------- | --------- | ---------- | ----------- |
+| Spring Break | `3/31/2019` | `10 am`     | Mandeville Loop       | [Peñasquitos](https://www.alltrails.com/trail/us/california/los-penasquitos-canyon-trail) | `7 mi`   | `8`     | LINK        |
+| Week 2     | `4/13/2019`  | `8 am`       | Mandeville Loop       | [Anza Borrego](http://www.parks.ca.gov/?page_id=638) | `6 mi`   | `16`     | LINK        |
