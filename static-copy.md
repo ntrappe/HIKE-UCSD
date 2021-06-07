@@ -60,3 +60,8 @@ always check the conditions before heading out. We hope that Fall 2021 will allo
 | Week 2     | `10/12/2019` | `8 am`       | Revelle P103          | [Fletcher Point](https://www.alltrails.com/trail/us/california/fletcher-point) | `5.8 mi` | `13` | LINK        |
 | Week 3     | `10/19/2019` | `8 am`       | Revelle P103          | [Palomar Mountain](https://modernhiker.com/hike/hiking-palomar-mountain-state-park/) | `9 mi` | `8` | LINK        |
 | Week 4     | `10/27/2019` | `8 am`       | Revelle P103          | Mission Trails | `3 mi` | `8` | LINK        |
+| Week 5     | `11/3/2019`  | `8 am`       | Revelle P103          | Torrey Pines   | `3 mi` | `8` | LINK        |
+| Week 6     | **Holiday Weekend** | | | | | |
+| Week 7     | `11/17/2019` | `8 am`       | Revelle P103          | [Iron Mountain Peak](https://www.hikingproject.com/trail/7022637/iron-mountain-peak-trail-10) | `6 mi` | `5` | LINK        |
+| Week 8     | `11/23/2019` | `8 am`       | Revelle P103          | [McGinty](https://www.alltrails.com/trail/us/california/mcginty-mountain-trail) | `5 mi` | `8` | LINK        |
+| Week 9     | **Holiday Weekend** | | | | | |
