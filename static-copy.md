@@ -51,6 +51,19 @@
 | Week 6     | `5/11/2019`  | `3:30 pm`    | Galbraith Hall        | **Run by the Astronomy Club** |  |  |  |
 
 
+### Winter 2019
+| When       | Date         | Meet Time    | Meet Location         | Location                          | Distance  | # Slots | Description |
+| ---------- | ------------ | ------------ | --------------------- | --------------------------------- | --------- | ---------- | ----------- |
+| Week 1	   | `1/5/2019`   |	`12:30 pm`   | Village Market	       | [Iron Mountain](http://hikingsdcounty.com/iron-mountain/) | `7 mi` |	`4` | LINK |
+| Week 2	   | `1/13/2019`  | `12:00pm`    | Village Market        | [Mission Valley](https://mtrp.org/) | `8 mi` |	`5` | LINK |
+| Week 3     | **SORRY! CANCELLED BECAUSE OF RAIN** | | | | | | |
+| Week 4	   | **SORRY! CANCELLED BECAUSE OF RAIN** | | | | | | |		
+| Week 5	   | **SORRY! CANCELLED BC OF RAIN BUT RESCHEDULED FOR WEEK 7** | | | | | | |			
+| Week 6     | **SORRY! CANCELLED BC OF BAD STORM CONDITIONS** | | | | | | |	
+| Week 7	   | `2/24/2019`  | `8:00 am`    | Village Market        | [Corte Madera](http://www.ihikesandiego.com/corte-madera-mountain/) | `9.8 mi`	| `12` | LINK |
+| Week 8     | `3/2/2019`   | `10:00 am`   | Village Market        | [Peñasquitos Canyon](https://www.alltrails.com/trail/us/california/los-penasquitos-canyon-trail) | TBD	| `5` | LINK |
+| Week 9     | `3/10/2019`  | `9:00 am`    | Village Market        | [Torrey Pines](https://www.alltrails.com/explore/trail/us/california/torrey-pines-beach-trail-loop) | `8 mi` |	`10` | LINK |
+
 ---
 
 ## Rules and Regulations
