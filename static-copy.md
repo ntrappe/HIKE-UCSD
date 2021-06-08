@@ -19,6 +19,21 @@
 ### Spring Quarter 2020
 *No hikes due to Covid-19*
 
+### Winter Quarter 2020
+| When       | Date         | Meet Time    | Meet Location         | Location                          | Distance  | # Slots | Description |
+| ---------- | ------------ | ------------ | --------------------- | --------------------------------- | --------- | ---------- | ----------- |
+| Week 1     | **NONE**     | | | | | | |	
+| Week 2     | `1/18/2020`  | `9:00 am`    | Revelle P103           | [Elfin Forest](https://elfinforest.olivenhain.com/) | `6 mi` | `16` | Easy difficulty |
+| Week 3     | **NONE**     | | | | | | |		
+| Week 4     | `2/1/2020`   | `8:00 am`    | Revelle P103           | [Iron Mountain Peak Trail](https://www.hikingproject.com/trail/7022637/iron-mountain-peak-trail-10) | `6 mi` | `9` | Moderate difficulty |
+| Week 5     | **NONE**     | | | | | | |	
+| Week 6     | `2/15/2020`  | `9:00 am`    | Revelle P103           | [Carmel Mountian](https://www.alltrails.com/trail/us/california/carmel-mountain-preserve-loop) | `2.7 mi`	| `10` | Moderate difficulty |
+| Week 7     | **NONE**     | | | | | | |		
+| Week 8     | **NONE**     | | | | | | |		
+| Week 9     | **NONE**     | | | | | | |	
+| Week 10    | **NONE**     | | | | | | |		
+				
+
 ### Fall Quarter 2019
 | When       | Date         | Meet Time    | Meet Location         | Location                          | Distance  | # Slots | Description |
 | ---------- | ------------ | ------------ | --------------------- | --------------------------------- | --------- | ---------- | ----------- |
